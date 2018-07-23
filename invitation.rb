@@ -10,7 +10,7 @@ puts "What is your name"
 host_name = gets.chomp
 
 puts "Dear #{guest_name},"
-puts "You're invited to a #{party_name}
+puts "You're invited to a #{party_name}"
 puts "it is on #{date}"
 puts "it is at #{time}"
 puts "sincerely, #{host_name}"
